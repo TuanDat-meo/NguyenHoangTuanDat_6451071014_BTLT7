@@ -1,9 +1,9 @@
 # bai_buoi7
 
 Bài 1
-![Detail Screen](screenshots/bai1.png)
+![Detail Screen](screenshot/bai1.png)
 Bài 2
-![Detail Screen](screenshots/bai2.png)
+![Detail Screen](screenshot/bai2.png)
 
 ## Getting Started
 
